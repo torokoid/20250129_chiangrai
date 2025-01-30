@@ -159,7 +159,7 @@ p.note { display: none; }
 <h2><span class="yellow">若い修行僧は、お経忘れて確認する場面も・・・</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ncIPAk9b_NA?si=GYxdZ_V-LIpzj_cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
-<h2><span class="yellow">動画中ほどで僧侶を繋いでいた紐を回収するシーンあり</span></h2>
+<h2><span class="yellow">動画中ほどで僧侶を繋いでいた紐を巻き戻してゆくシーンあり</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nX19nMLGazY?si=o7h4m5F_Y6jEc71v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t8AszjCNaqM?si=61U3w0kBS4EnSr34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
