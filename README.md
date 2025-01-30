@@ -137,9 +137,11 @@ p.note { display: none; }
 <h2><span class="yellow">9:30にはお坊さんが到着しました</span></h2>
 <a href="20250129_003.jpg" target="_blank"><img src="20250129_003.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">白い服の方は一般人とお坊さの中継ぎ役で、集落に必ず何人かおられるとのこと<br>手前の僧侶はまだ子供。<br>家庭の経済的理由で仏門に預けられて、義務教育も仏門系で受けるとのこと。<br>日本にもこのシステムあった方が良いかも・・・</span></h2>
+<h2><span class="yellow">手前の僧侶はまだ子供。<br>家庭の経済的理由で仏門に預けられて、義務教育も仏門系で受けるとのこと。<br>日本にもこのシステムあった方が良いかも・・・</span></h2>
 <a href="20250129_004.jpg" target="_blank"><img src="20250129_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_005.jpg" target="_blank"><img src="20250129_005.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">白い服の方は一般人とお坊さの中継ぎ役で、集落に必ず何人かおられるとのこと</span></h2>
 <a href="20250129_006.jpg" target="_blank"><img src="20250129_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_007.jpg" target="_blank"><img src="20250129_007.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_008.jpg" target="_blank"><img src="20250129_008.jpg" alt="サンプル画像" width="900" /></a>
