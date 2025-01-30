@@ -137,7 +137,7 @@ p.note { display: none; }
 <h2><span class="yellow">9:30にはお坊さんが到着しました</span></h2>
 <a href="20250129_003.jpg" target="_blank"><img src="20250129_003.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">手前の僧侶はまだ子供。<br>家庭の経済的理由で仏門に預けられて、義務教育も仏門系で受けるとのこと。<br>日本にもこのシステムあった方が良いかも・・・</span></h2>
+<h2><span class="yellow">白い服の方は一般人とお坊さの中継ぎ役で、集落に必ず何人かおられるとのこと<br>手前の僧侶はまだ子供。<br>家庭の経済的理由で仏門に預けられて、義務教育も仏門系で受けるとのこと。<br>日本にもこのシステムあった方が良いかも・・・</span></h2>
 <a href="20250129_004.jpg" target="_blank"><img src="20250129_004.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_005.jpg" target="_blank"><img src="20250129_005.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_006.jpg" target="_blank"><img src="20250129_006.jpg" alt="サンプル画像" width="900" /></a>
@@ -162,7 +162,7 @@ p.note { display: none; }
 <a href="20250129_013.jpg" target="_blank"><img src="20250129_013.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_014.jpg" target="_blank"><img src="20250129_014.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">供養の様子は動画で撮影(かなり長編)<br>白い服の方は一般人とお坊さの中継ぎ役で、集落に必ず何人かおられるとのこと<br>一連の流れの中で驚くのは、一般人側もお経を暗記していていて、僧侶とのお経掛け合いみたいになるところ<br>成人までの過程でお寺での修行義務がある国ならではです</span></h2>
+<h2><span class="yellow">供養の様子は動画で撮影(かなり長編)<br>一連の流れの中で驚くのは、一般人側もお経を暗記していていて、僧侶とのお経掛け合いみたいになるところ<br>成人までの過程でお寺での修行義務がある国ならではです</span></h2>
     
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_GOlFq_HHM8?si=dxS5anCgzwJ15MQe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
@@ -184,10 +184,10 @@ p.note { display: none; }
 <a href="20250129_015.jpg" target="_blank"><img src="20250129_015.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_016.jpg" target="_blank"><img src="20250129_016.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">ニワトリ家蔵はいつも通り</span></h2>
+<h2><span class="yellow">ニワトリ家族はいつも通り</span></h2>
 <a href="20250129_017.jpg" target="_blank"><img src="20250129_017.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">夕食の時間も故人の弔いで集まって食事・・・20時過ぎまで続きました</span></h2>
+<h2><span class="yellow">故人は今日までうちに来てるとのことで夕食の時間も集まって食事<br>・・・20時過ぎまで続きました</span></h2>
 <a href="20250129_018.jpg" target="_blank"><img src="20250129_018.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_019.jpg" target="_blank"><img src="20250129_019.jpg" alt="サンプル画像" width="900" /></a>
     
@@ -198,7 +198,7 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">今夜のBGMはユーミンのピアノ<br>旋律聴くだけで歌詞がかなり正確に頭に浮かんできました<br>リアルタイムで聴いてたのは多分50年前？！</span></h2>
+<h2><span class="yellow">今夜のBGMはユーミンのピアノ<br>旋律聴くだけで歌詞がかなり正確に頭に浮かんできました<br>リアルタイムで聴いてたのはたぶん50年前？！</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ff7lPqk6-aU?si=hKOi_NUg8rr4eu-u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
 <h2><span class="yellow">ユーミンのピアノに聴き入る猫達<br>さすがユーミン、種を超えて心に染み込めるとは！</span></h2>
