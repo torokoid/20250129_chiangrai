@@ -147,6 +147,26 @@ p.note { display: none; }
 <a href="20250129_008.jpg" target="_blank"><img src="20250129_008.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_009.jpg" target="_blank"><img src="20250129_009.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_010.jpg" target="_blank"><img src="20250129_010.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">供養の様子は動画で撮影(かなり長編)<br>一連の流れの中で驚くのは一般人側もお経を暗記していていて、<br>僧侶とのお経掛け合いみたいになるところ<br>成人までの過程でお寺での修行義務がある国ならではです</span></h2>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_GOlFq_HHM8?si=dxS5anCgzwJ15MQe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HRhDqZN9uag?si=pDaqV-XfMJjG1XOt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GCaIkS6WzNg?si=8aQS173eGf_1Mv7r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<h2><span class="yellow">若い修行僧は、お経忘れて確認する場面も・・・</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ncIPAk9b_NA?si=GYxdZ_V-LIpzj_cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+    
+<h2><span class="yellow">動画中ほどで僧侶を繋いでいた紐を回収するシーンあり</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nX19nMLGazY?si=o7h4m5F_Y6jEc71v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+    
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t8AszjCNaqM?si=61U3w0kBS4EnSr34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-A6lxrk63OQ?si=3AoZn-G5Ee5rLOkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
+
+
     
 <h2><span class="yellow">最後は手首に紐を巻いてもらって終わります</span></h2>
 <a href="20250129_011.jpg" target="_blank"><img src="20250129_011.jpg" alt="サンプル画像" width="900" /></a>
@@ -164,23 +184,7 @@ p.note { display: none; }
 <a href="20250129_013.jpg" target="_blank"><img src="20250129_013.jpg" alt="サンプル画像" width="900" /></a>
 <a href="20250129_014.jpg" target="_blank"><img src="20250129_014.jpg" alt="サンプル画像" width="900" /></a>
     
-<h2><span class="yellow">供養の様子は動画で撮影(かなり長編)<br>一連の流れの中で驚くのは、一般人側もお経を暗記していていて、僧侶とのお経掛け合いみたいになるところ<br>成人までの過程でお寺での修行義務がある国ならではです</span></h2>
-    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_GOlFq_HHM8?si=dxS5anCgzwJ15MQe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HRhDqZN9uag?si=pDaqV-XfMJjG1XOt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GCaIkS6WzNg?si=8aQS173eGf_1Mv7r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
 
-<h2><span class="yellow">若い修行僧は、お経忘れて確認する場面も・・・</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ncIPAk9b_NA?si=GYxdZ_V-LIpzj_cS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-    
-<h2><span class="yellow">動画中ほどで僧侶を繋いでいた紐を回収するシーンあり</span></h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nX19nMLGazY?si=o7h4m5F_Y6jEc71v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-    
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t8AszjCNaqM?si=61U3w0kBS4EnSr34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-A6lxrk63OQ?si=3AoZn-G5Ee5rLOkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><br>
     
 <h2><span class="yellow">昨日兄弟と慣らしたアヒルは無事群れに合流</span></h2>
 <a href="20250129_015.jpg" target="_blank"><img src="20250129_015.jpg" alt="サンプル画像" width="900" /></a>
